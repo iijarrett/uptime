@@ -17,3 +17,5 @@ status-website:
       href: https://jarrettd.com
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+
+# Monitor list lives here. Add sites above.
